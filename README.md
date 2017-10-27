@@ -1,7 +1,7 @@
 # Ambermoon
 
 > A dark code editor theme for [Qt Creator](http://qt.io/ide). <br>
-Based on GitHub Dark standard code theme.
+Based on Twilight theme.
 
 ![Screenshot](/img/ambermoon.png)
 
