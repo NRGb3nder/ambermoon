@@ -3,7 +3,11 @@
 > A dark code editor theme for [Qt Creator](http://qt.io/ide). <br>
 Based on Twilight theme.
 
-![Screenshot](/img/ambermoon.png)
+<img src="/img/logo.png" alt="Logo" width="500">
+
+## Theme
+
+<img src="/img/ambermoon.png" alt="Screenshot" width="700">
 
 ## Install
 
